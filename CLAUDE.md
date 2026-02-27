@@ -2,12 +2,13 @@
 
 **Audited:** 2026-02-26
 **Bucket:** [ARCHIVE]
+**Status:** Retired
 
 ## What This Was
-Real estate side project — CurbAppeal AI
+curbappeal-xcode
 
 ## Job To Be Done
-Real estate/property analysis
+curbappeal-xcode
 
 ## Agent Replacement
 N/A
